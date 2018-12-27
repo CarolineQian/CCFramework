@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  CCFramework
+//
+//  Created by 冯倩 on 2018/12/21.
+//  Copyright © 2018年 Caroline. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//第三方
+#import "MJExtension.h"       //Model
+#import "NSObject+YYModel.h"  //Model
+
+//自定义
+#import "CCNetWorkManager.h"  //网络
+
+
+#endif /* PrefixHeader_pch */

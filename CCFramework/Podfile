@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+target “CCFramework" do
+pod 'AFNetworking', '~> 3.2.1'
+pod 'FMDB', '~> 2.7.2'
+pod 'Masonry', '~> 1.1.0'
+pod 'MJExtension', '~> 3.0.13'
+pod 'YYModel'
+pod 'MBProgressHUD', '~> 1.1.0'
+pod 'SDWebImage', '~> 4.4.0'
+pod 'MLeaksFinder'
+end
